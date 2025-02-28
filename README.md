@@ -14,4 +14,10 @@ PCB Layout – Board design
 Usage
 Connect J1 to a +5V source and get +3.3V output at J2.
 
+3D View
 ![image](https://github.com/user-attachments/assets/cf377c6d-cb52-4d72-9f82-05620635b47b)
+
+
+Schematic Design
+![image](https://github.com/user-attachments/assets/1cfedfed-1c5f-4477-8b1c-9853024c1e41)
+
